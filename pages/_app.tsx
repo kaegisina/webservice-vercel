@@ -1,5 +1,6 @@
 import type {AppProps} from "next/app";
 import Index from "./index";
+import FruchtListe from "./fruchtliste";
 
 export default function App({Component, pageProps}: AppProps) {
     return (
